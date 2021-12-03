@@ -20,7 +20,9 @@ npm install
 ```
 In order to run the application type the following command
 
-```npm start```
+```
+npm start
+```
 The Application Runs on localhost:3000
 
 ## Built With
