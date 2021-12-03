@@ -9,6 +9,9 @@
 >- Communicating between parent and child
 >- Using Bootstrap5 along with React
 
+## Live App Link
+https://martha-moreno.github.io/todo/#!
+
 ## Installation
 >  Clone the project into local
 >  Install all the npm packages. Go into the project folder and type the following command on the terminal npm install
